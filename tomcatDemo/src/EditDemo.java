@@ -19,7 +19,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 /**
- * Servlet implementation class jsonData
+           * Servlet implementation class jsonData
  */
 @WebServlet(name = "Edit", urlPatterns = { "/Edit" })
 public class EditDemo extends HttpServlet {

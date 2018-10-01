@@ -75,7 +75,7 @@ public class TestServlet extends HttpServlet {
 			request.setAttribute("thisPage", request.getParameter("thisPage"));
 			request.getRequestDispatcher("index.jsp").forward(request, response);
 			
-			
+	
 		} catch (ParseException e) {
 			e.printStackTrace();
 		}

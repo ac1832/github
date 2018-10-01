@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/javautil-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/fastjson-1.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/fluent-hc-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/httpclient-cache-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/httpclient-win-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/httpmime-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/jna-platform-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/java-rt-jar-stubs-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/stax-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/poi-ooxml-schemas-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/poi-ooxml-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/xmlbeans-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/poi-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/william.hung/Desktop/jar/commons-net-3.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -28,6 +28,6 @@ public class InsertDemo extends HttpServlet {
 			throws ServletException, IOException {
 		
 		
-		request.getRequestDispatcher("index.jsp").forward(request, response);
+		request.getRequestDispatcher("WEB-INF/InsertJson.jsp").forward(request, response);
 	}
 }
